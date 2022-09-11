@@ -2,3 +2,4 @@ This is FileB
 This is a change to FileB
 Making a change to check commit on GitHub
 Made change to FileB
+Changes made for squash merge
